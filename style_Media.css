@@ -153,7 +153,7 @@ nav ul li a {
    4. HERO SECTION
    -------------------------------------------------------------- */
 .hero {
-    height: 80vh;
+    height: 100vh;
     min-height: 500px;
 }
 
@@ -463,4 +463,5 @@ html {
         font-size: 14px;
         text-align: left;
     }
+
 }
